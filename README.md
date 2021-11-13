@@ -27,6 +27,6 @@
 <a href="https://github.com/chetnachaudhari/dev-tools">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chetnachaudhari&repo=dev-tools&theme=buefy" />
 </a>
-<a href="https://github.com/chetnachaudhari/Notes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chetnachaudhari&repo=Notes&theme=buefy" />
+<a href="https://github.com/chetnachaudhari/chetnachaudhari.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chetnachaudhari&repo=chetnachaudhari.github.io&theme=buefy" />
 </a>
